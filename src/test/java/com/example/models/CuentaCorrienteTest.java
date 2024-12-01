@@ -119,7 +119,7 @@ class CuentaCorrienteTest {
 
         cuentaCorriente.extractoMensual();
 
-        // Verificar que se llama al método de la superclase sin errores
+
         assertNotNull(cuentaCorriente);
     }
 
