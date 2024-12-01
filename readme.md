@@ -1,5 +1,7 @@
 # 💰 Banking Account Management System 
 
+<img src="[image_url](https://github.com/acr00/Kata-CuentaBancaria/blob/main/BankAccount.PNG?raw=true)" alt="Bank Account UML">
+
 ## 🌟 Project Overview
 
 This project implements a comprehensive Banking Account Management System in Java, showcasing object-oriented programming principles, inheritance, and robust testing strategies.
