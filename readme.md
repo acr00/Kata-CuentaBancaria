@@ -67,27 +67,5 @@ src/
 2. Install dependencies
 3. Run tests
 
-```bash
-git clone https://github.com/yourusername/banking-account.git
-cd banking-account
-mvn test
-```
 
-## 📈 Learning Objectives
-
-- Object-Oriented Design
-- Inheritance Implementation
-- Exception Handling
-- Unit Testing Strategies
-
-## 🤝 Contributions
-
-Contributions, issues, and feature requests are welcome!
-
-## 📄 License
-
-[MIT License]
-
----
-
-Made with ❤️ by [Your Name]
+Made with ❤️ Adrian
