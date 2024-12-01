@@ -1,6 +1,6 @@
 # 💰 Banking Account Management System 
 
-<img src="[image_url](https://github.com/acr00/Kata-CuentaBancaria/blob/main/BankAccount.PNG?raw=true)" alt="Bank Account UML">
+<img src="https://github.com/acr00/Kata-CuentaBancaria/blob/main/BankAccount.PNG?raw=true" alt="Bank Account UML">
 
 ## 🌟 Project Overview
 
